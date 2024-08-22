@@ -22,7 +22,7 @@ The primary goal of this project is to derive actionable business insights from 
 2. **What is the average price of apps for each genre with different install numbers?**
 
 
-    ![alt text](image.png)
+    ![alt text](graphs/image.png)
 
     Categories such as Lifestyle, Finance, Medical, and Productivity show high average prices in the lower install brackets (0+ and 1+ installs). This indicates that apps in these categories might be priced higher even if they don't attract a large number of installs, possibly due to their specialized or niche nature.
 
@@ -38,7 +38,7 @@ The primary goal of this project is to derive actionable business insights from 
 
 4. **Which Genre has more apps?**
 
-    ![alt text](image-1.png)
+    ![alt text](graphs/image-1.png)
 
     **So `Family Category` has more apps on the google play store** 
 
@@ -48,14 +48,14 @@ The primary goal of this project is to derive actionable business insights from 
 
 5. **How many apps are available for each Type and content rating?**
 
-    ![alt text](image-2.png)
+    ![alt text](graphs/image-2.png)
 
     The majority of apps, both free and paid, fall under the "Everyone" content rating. This suggests that most apps are designed to be accessible and appropriate for all age groups, likely to reach the broadest possible audience.
 
 
 6. **How many apps work on Android version 4?**
 
-    ![alt text](image-3.png)
+    ![alt text](graphs/image-3.png)
 
     So there are `6961` Apps are working on Android V4
 
@@ -71,7 +71,7 @@ The primary goal of this project is to derive actionable business insights from 
 
 8. **Is there a correlation between rating, reviews, size, and the price of the app?**
 
-    ![alt text](image-4.png)
+    ![alt text](graphs/image-4.png)
 
     Observation: 
     These feature are not correlated with the price as we see
@@ -79,7 +79,7 @@ The primary goal of this project is to derive actionable business insights from 
 
 9. **How much did Google earn from apps with over 5,000,000 installs?**
 
-    ![alt text](image-5.png)
+    ![alt text](graphs/image-5.png)
 
     the apps with high number of installation can be free apps. so google don't earn from them 
 
@@ -89,7 +89,7 @@ The primary goal of this project is to derive actionable business insights from 
 
 10. **What is the average size of free vs. paid apps?**
 
-    ![alt text](image-6.png)
+    ![alt text](graphs/image-6.png)
 
     **The avg size for `Free` apps is `21.675505`, and for `Paid` is `19.516453`**
 
@@ -97,7 +97,7 @@ The primary goal of this project is to derive actionable business insights from 
 
 11. **What are the max and min sizes for free and paid apps?**
 
-    ![alt text](image-7.png)
+    ![alt text](graphs/image-7.png)
 
     Observation:
     - The minmum size for free & paid type is almost zero 
